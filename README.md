@@ -8,4 +8,4 @@ PCB Designer & Embedded Systems Developer
 -  Open Source Robotics
 
 ## Featured Project
- Project Exo
+[Project Exo](https://github.com/Melih2123/Project-Exo)
